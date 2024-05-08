@@ -26,6 +26,7 @@ SetOption15 0 // to control the storage of values.
 
 ShutterRelay1 1
 
+check savedata (savedata 1)
 
 
 Run commands in the console to configure the motor operation:
